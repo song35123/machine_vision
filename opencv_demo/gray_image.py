@@ -1,5 +1,5 @@
-import cv
-image = cv.imread("test.jpg")
+import cv2
+image = cv2.imread("test.jpg")
 
 if image is None:
   print("图片读取失败，请检查路径是否正确")
