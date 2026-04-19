@@ -12,7 +12,19 @@
 - 为后续的目标检测与视觉项目打基础
 
 ### 1.canny_edge.py
-学习cv中的边缘检测操作
+  图片转化为灰度图
+  调整canny算子的阈值
+  学习cv中的边缘检测操作
 
 ### 2.gray_image.py
+  学习cv中将图片转化为灰度图
+### 3.read_image.py
+  学习读取图片
+### 4.image_info.py
+  读取图片的尺寸大小与通道数和图片类型
+### 5.pixel_value.py
+  读取图片像素RGB信息
+  重点是像素坐标形式与坐标列表元素代表意义
+### 6.modify_pixel.py
+  更改图片像素的RGB数值
 
