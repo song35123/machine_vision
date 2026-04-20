@@ -27,4 +27,14 @@
   重点是像素坐标形式与坐标列表元素代表意义
 ### 6.modify_pixel.py
   更改图片像素的RGB数值
+### 7. gray_info.py
+查看灰度图与彩色图在 shape 上的区别。
 
+### 8. threshold_binary.py
+使用固定阈值进行普通二值化处理。
+
+### 9. threshold_binary_inv.py
+使用反向二值化处理图像。
+
+### 10. threshold_otsu.py
+使用 Otsu 方法自动计算阈值并完成二值化。
