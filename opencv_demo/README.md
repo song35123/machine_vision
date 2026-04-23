@@ -38,3 +38,15 @@
 
 ### 10. threshold_otsu.py
 使用 Otsu 方法自动计算阈值并完成二值化。
+
+### 11. blur_average.py
+使用均值滤波对图像进行平滑处理。
+
+### 12. blur_gaussian.py
+使用高斯滤波减少图像噪声。
+
+### 13. blur_median.py
+使用中值滤波处理图像噪声。
+
+### 14. gaussian_canny.py
+在 Canny 边缘检测前加入高斯滤波，观察边缘检测效果变化。
