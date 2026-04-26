@@ -50,3 +50,12 @@
 
 ### 14. gaussian_canny.py
 在 Canny 边缘检测前加入高斯滤波，观察边缘检测效果变化。
+
+### 15. find_contours.py
+对二值图进行轮廓检测，并将所有轮廓绘制到原图上。
+
+### 16. largest_contour.py
+在所有轮廓中找出面积最大的轮廓，并进行绘制。
+
+### 17. bounding_rect.py
+为检测到的轮廓绘制外接矩形框。
