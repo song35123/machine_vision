@@ -59,3 +59,12 @@
 
 ### 17. bounding_rect.py
 为检测到的轮廓绘制外接矩形框。
+
+### 18. approx_polygon.py
+使用 `cv2.approxPolyDP()` 对轮廓进行多边形近似，并观察顶点数量。
+
+### 19. detect_quadrilateral.py
+通过轮廓近似后的顶点数量，检测图像中的四边形区域。
+
+### 20. draw_corners.py
+在检测到的四边形上绘制轮廓和角点坐标。
