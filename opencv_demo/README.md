@@ -77,3 +77,12 @@
 
 ### 23. largest_rectangle.py
 从多个候选矩形中筛选面积最大的矩形，并输出位置和中心点。
+
+### 24. bgr_to_hsv.py
+将 OpenCV 默认的 BGR 图像转换为 HSV 颜色空间。
+
+### 25. detect_green_hsv.py
+使用 HSV 阈值范围提取图像中的绿色区域。
+
+### 26. red_center.py
+检测图像中的红色区域，并输出最大红色目标的中心坐标。
