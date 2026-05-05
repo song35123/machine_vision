@@ -8,3 +8,4 @@ else:
   cv2.imshow("Gray Image", gray)
   cv2.waitKey(0)
   cv2.destroyAllWindows()
+move gray_image.py to 01_Basic folder
